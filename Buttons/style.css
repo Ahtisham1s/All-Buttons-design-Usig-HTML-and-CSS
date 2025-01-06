@@ -16,20 +16,21 @@
 
 
 /* All Groups Display properties */
-.buttons .max-width .buttons-group-1,
-.buttons .max-width .buttons-group-2 ,
-.buttons .max-width .buttons-group-3,
-.buttons .max-width .buttons-group-4{
+.buttons .max-width .buttons-g1-row-1,
+.buttons .max-width .buttons-g1-row-2 ,
+.buttons .max-width .buttons-g1-row-3,
+.buttons .max-width .buttons-g1-row-4{
   display: flex;
   gap: 31px;
+
 }
 
 
 /* All Buttons Common Styling */
-.buttons .max-width .buttons-group-1 .btn,
-.buttons .max-width .buttons-group-2 .btn,
-.buttons .max-width .buttons-group-3 .btn,
-.buttons .max-width .buttons-group-4 .btn {
+.buttons .max-width .buttons-g1-row-1 .btn,
+.buttons .max-width .buttons-g1-row-2 .btn,
+.buttons .max-width .buttons-g1-row-3 .btn,
+.buttons .max-width .buttons-g1-row-4 .btn {
   border: none;
   width: 106px;
   height: 36px;
@@ -45,24 +46,24 @@
 
 
 
-/* All Hover Effects Styling */
+/* All Hover Effects Styling Group 1 */
 
-.buttons .max-width .buttons-group-1 .btn:hover {
+.buttons .max-width .buttons-g1-row-1 .btn:hover {
   opacity: 85%;
   cursor: pointer;
     transition: all 0.5s ease-in-out;
 }
-.buttons .max-width .buttons-group-2 .btn:hover {
+.buttons .max-width .buttons-g1-row-2 .btn:hover {
   opacity: 85%;
   cursor: pointer;
     transition: all 0.5s ease-in-out;
 }
-.buttons .max-width .buttons-group-3 .btn:hover {
+.buttons .max-width .buttons-g1-row-3 .btn:hover {
   opacity: 85%;
   cursor: pointer;
     transition: all 0.5s ease-in-out;
 }
-.buttons .max-width .buttons-group-4 .btn:hover {
+.buttons .max-width .buttons-g1-row-4 .btn:hover {
   opacity: 100%;
   cursor: pointer;
   background-color: #7f56d9;
@@ -74,41 +75,41 @@
 
 /* Row 1 */
 
-.buttons .max-width .buttons-group-1 #btn2 {
+.buttons .max-width .buttons-g1-row-1 #btn-row1-2 {
   width: 110px;
   height: 40px;
 }
-.buttons .max-width .buttons-group-1 #btn3 {
+.buttons .max-width .buttons-g1-row-1 #btn-row1-3 {
   width: 114px;
   height: 44px;
 }
-.buttons .max-width .buttons-group-1 #btn4 {
+.buttons .max-width .buttons-g1-row-1 #btn-row1-4 {
   width: 118px;
   height: 48px;
 }
-.buttons .max-width .buttons-group-1 #btn5 {
+.buttons .max-width .buttons-g1-row-1 #btn-row1-5 {
   width: 122px;
   height: 52px;
 }
 
 /* Row 2 */
-.buttons .max-width .buttons-group-2 .btn {
+.buttons .max-width .buttons-g1-row-2 .btn {
   background-color: #6941c6;
     transition: all 0.5s ease-in-out;
 }
-.buttons .max-width .buttons-group-2 #btn-group2-2 {
+.buttons .max-width .buttons-g1-row-2 #btn-row2-2 {
   width: 110px;
   height: 40px;
 }
-.buttons .max-width .buttons-group-2 #btn-group2-3 {
+.buttons .max-width .buttons-g1-row-2 #btn-row2-3 {
   width: 114px;
   height: 44px;
 }
-.buttons .max-width .buttons-group-2 #btn-group2-4 {
+.buttons .max-width .buttons-g1-row-2 #btn-row2-4 {
   width: 118px;
   height: 48px;
 }
-.buttons .max-width .buttons-group-2 #btn-group2-5 {
+.buttons .max-width .buttons-g1-row-2 #btn-row2-5 {
   width: 122px;
   height: 52px;
 }
@@ -117,24 +118,24 @@
 /* Row 3 */
 
 
-.buttons .max-width .buttons-group-3 .btn {
+.buttons .max-width .buttons-g1-row-3 .btn {
     background-color: #7F56D9;
     box-shadow:0px 0px 0px 4px rgba(244, 235, 255, 1);
       transition: all 0.5s ease-in-out;
   }
-  .buttons .max-width .buttons-group-3 #btn-group3-2 {
+  .buttons .max-width .buttons-g1-row-3 #btn-row3-2 {
     width: 110px;
     height: 40px;
   }
-  .buttons .max-width .buttons-group-3 #btn-group3-3 {
+  .buttons .max-width .buttons-g1-row-3 #btn-row3-3 {
     width: 114px;
     height: 44px;
   }
-  .buttons .max-width .buttons-group-3 #btn-group3-4 {
+  .buttons .max-width .buttons-g1-row-3 #btn-row3-4 {
     width: 118px;
     height: 48px;
   }
-  .buttons .max-width .buttons-group-3 #btn-group3-5 {
+  .buttons .max-width .buttons-g1-row-3 #btn-row3-5 {
     width: 122px;
     height: 52px;
   }
@@ -144,26 +145,101 @@
 /* Row 4 */
 
 
-.buttons .max-width .buttons-group-4 .btn {
+.buttons .max-width .buttons-g1-row-4 .btn {
     background-color: #E9D7FE;
     box-shadow:0px 1px 2px 0px rgba(10, 13, 18, 0.05);
     border: 1px solid #E9D7FE;
     transition: all 0.5s ease-in-out;
   }
-  .buttons .max-width .buttons-group-4 #btn-group4-2 {
+  .buttons .max-width .buttons-g1-row-4 #btn-row4-2 {
     width: 110px;
     height: 40px;
   }
-  .buttons .max-width .buttons-group-4 #btn-group4-3 {
+  .buttons .max-width .buttons-g1-row-4 #btn-row4-3 {
     width: 114px;
     height: 44px;
   }
-  .buttons .max-width .buttons-group-4 #btn-group4-4 {
+  .buttons .max-width .buttons-g1-row-4 #btn-row4-4 {
     width: 118px;
     height: 48px;
   }
-  .buttons .max-width .buttons-group-4 #btn-group4-5 {
+  .buttons .max-width .buttons-g1-row-4 #btn-row4-5 {
     width: 122px;
     height: 52px;
   }
   
+
+  /* Group 2 All Styling */
+  .button-group-two{
+    margin-top: 30px;
+    border: 1px solid;
+  }
+
+  .buttons .max-width .buttons-g2-row-1,
+  .buttons .max-width .buttons-g2-row-2,
+  .buttons .max-width .buttons-g2-row-3,
+  .buttons .max-width .buttons-g2-row-4 {
+    display: flex;
+    gap: 31px;
+  
+  }
+  .buttons .max-width .buttons-g2-row-1 .btn-g2,
+  .buttons .max-width .buttons-g2-row-2 .btn-g2,
+  .buttons .max-width .buttons-g2-row-3 .btn-g2,
+  .buttons .max-width .buttons-g2-row-4 .btn-g2 {
+    border: none;
+    width: 106px;
+    height: 36px;
+    border-radius: 8px;
+    background-color: #F9F5FF;
+    color: #6941C6;
+    font-family: "Inter", sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 20px;
+    margin-top: 16px;
+    margin-bottom: 5px;
+  }
+
+
+
+  .buttons .max-width .buttons-g2-row-1 #btn-g2-r1-2 {
+    width: 110px;
+    height: 40px;
+  }
+  .buttons .max-width .buttons-g2-row-1 #btn-g2-r1-3 {
+    width: 114px;
+    height: 44px;
+  }
+  .buttons .max-width .buttons-g2-row-1 #btn-g2-r1-4 {
+    width: 118px;
+    height: 48px;
+  }
+  .buttons .max-width .buttons-g2-row-1 #btn-g2-r1-5 {
+    width: 122px;
+    height: 52px;
+  }
+
+
+  /* ALL Hover Effects Group 2 */
+
+  .buttons .max-width .buttons-g2-row-1 .btn-g2:hover {
+    opacity: 85%;
+    cursor: pointer;
+      transition: all 0.5s ease-in-out;
+  }
+  .buttons .max-width .buttons-g2-row-2 .btn-g2:hover {
+    opacity: 85%;
+    cursor: pointer;
+      transition: all 0.5s ease-in-out;
+  }
+  .buttons .max-width .buttons-g2-row-3 .btn-g2:hover {
+    opacity: 85%;
+    cursor: pointer;
+      transition: all 0.5s ease-in-out;
+  }
+  .buttons .max-width .buttons-g2-row-4 .btn-g2:hover {
+    opacity: 100%;
+    cursor: pointer;
+    transition: all 0.5s ease-in-out;
+  }
