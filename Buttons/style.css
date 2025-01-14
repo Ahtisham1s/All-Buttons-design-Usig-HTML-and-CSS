@@ -172,7 +172,7 @@
   /* Group 2 All Styling */
   .button-group-two{
     margin-top: 30px;
-    border: 1px solid;
+    /* border: 1px solid; */
   }
 
   .buttons .max-width .buttons-g2-row-1,
@@ -285,7 +285,7 @@
   .buttons .max-width .button-group-two .buttons-g2-row-4 .btn-g2 {
     background-color: #FCFAFF;
     color: #D6BBFB;
-    box-shadow:0px 1px 2px 0px rgba(10, 13, 18, 0.05);
+    box-shadow:0px 1px 2px 0px #0A0D120D;
     transition: all 0.5s ease-in-out;
   }
 
@@ -319,7 +319,7 @@
       transition: all 0.5s ease-in-out;
   }
   .buttons .max-width .buttons-g2-row-3 .btn-g2:hover {
-    opacity: 85%;
+    opacity: 100%;
     cursor: pointer;
       transition: all 0.5s ease-in-out;
   }
@@ -328,3 +328,169 @@
     cursor: pointer;
     transition: all 0.5s ease-in-out;
   }
+
+
+
+  /* Group three  */
+
+  /* Group 2 All Styling */
+  .button-group-two{
+    margin-top: 30px;
+    /* border: 1px solid; */
+  }
+
+  .buttons .max-width .buttons-g2-row-1,
+  .buttons .max-width .buttons-g2-row-2,
+  .buttons .max-width .buttons-g2-row-3,
+  .buttons .max-width .buttons-g2-row-4 {
+    display: flex;
+    gap: 31px;
+  
+  }
+  .buttons .max-width .buttons-g2-row-1 .btn-g2,
+  .buttons .max-width .buttons-g2-row-2 .btn-g2,
+  .buttons .max-width .buttons-g2-row-3 .btn-g2,
+  .buttons .max-width .buttons-g2-row-4 .btn-g2 {
+    border: none;
+    width: 106px;
+    height: 36px;
+    border-radius: 8px;
+    background-color: #F9F5FF;
+    color: #6941C6;
+    font-family: "Inter", sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 20px;
+    margin-top: 16px;
+    margin-bottom: 5px;
+  }
+
+
+/* ROW 1 */
+
+.buttons .max-width .button-group-two .buttons-g2-row-1 .btn-g2 {
+  background-color: #F9F5FF;
+  box-shadow:0px 1px 2px 0px rgba(10, 13, 18, 0.05);
+
+  transition: all 0.5s ease-in-out;
+}
+
+
+.buttons .max-width .button-group-two .buttons-g2-row-1 #btn-g2-r1-2 {
+  width: 110px;
+  height: 40px;
+}
+ .buttons .max-width .button-group-two .buttons-g2-row-1 #btn-g2-r1-3{
+  width: 125px;
+  height: 44px;
+}
+ .buttons .max-width .button-group-two .buttons-g2-row-1 #btn-g2-r1-4{
+  width: 129px;
+  height: 48px;
+}
+ .buttons .max-width .button-group-two .buttons-g2-row-1 #btn-g2-r1-5{
+  width: 156px;
+  height: 60px;
+}
+
+/* ROW 2 */
+
+.buttons .max-width .button-group-two .buttons-g2-row-2 .btn-g2 {
+  background-color: #F4EBFF;
+  box-shadow:0px 1px 2px 0px rgba(10, 13, 18, 0.05);
+
+  transition: all 0.5s ease-in-out;
+}
+
+  .buttons .max-width .button-group-two .buttons-g2-row-2 #btn-g2-r2-2 {
+    width: 110px;
+    height: 40px;
+  }
+   .buttons .max-width .button-group-two .buttons-g2-row-2 #btn-g2-r2-3{
+    width: 125px;
+    height: 44px;
+  }
+   .buttons .max-width .button-group-two .buttons-g2-row-2 #btn-g2-r2-4{
+    width: 129px;
+    height: 48px;
+  }
+   .buttons .max-width .button-group-two .buttons-g2-row-2 #btn-g2-r2-5{
+    width: 156px;
+    height: 60px;
+  }
+
+  /* ROW 3 */
+
+  .buttons .max-width .button-group-two .buttons-g2-row-3 .btn-g2 {
+    background-color: #F9F5FF;
+    box-shadow:0px 0px 0px 4px rgba(244, 235, 255, 1);
+    border: 1px solid #F9F5FF;
+    transition: all 0.5s ease-in-out;
+  }
+
+  .buttons .max-width .button-group-two .buttons-g2-row-3 #btn-g2-r3-2 {
+    width: 110px;
+    height: 40px;
+  }
+   .buttons .max-width .button-group-two .buttons-g2-row-3 #btn-g2-r3-3{
+    width: 125px;
+    height: 44px;
+  }
+   .buttons .max-width .button-group-two .buttons-g2-row-3 #btn-g2-r3-4{
+    width: 129px;
+    height: 48px;
+  }
+   .buttons .max-width .button-group-two .buttons-g2-row-3 #btn-g2-r3-5{
+    width: 156px;
+    height: 60px;
+  }
+
+  /* ROW 4 */
+  .buttons .max-width .button-group-two .buttons-g2-row-4 .btn-g2 {
+    background-color: #FCFAFF;
+    color: #D6BBFB;
+    box-shadow:0px 1px 2px 0px #0A0D120D;
+    transition: all 0.5s ease-in-out;
+  }
+
+  .buttons .max-width .button-group-two .buttons-g2-row-4 #btn-g2-r4-2 {
+    width: 110px;
+    height: 40px;
+  }
+   .buttons .max-width .button-group-two .buttons-g2-row-4 #btn-g2-r4-3{
+    width: 125px;
+    height: 44px;
+  }
+   .buttons .max-width .button-group-two .buttons-g2-row-4 #btn-g2-r4-4{
+    width: 129px;
+    height: 48px;
+  }
+   .buttons .max-width .button-group-two .buttons-g2-row-4 #btn-g2-r4-5{
+    width: 156px;
+    height: 60px;
+  }
+
+  /* ALL Hover Effects Group 2 */
+
+  .buttons .max-width .buttons-g2-row-1 .btn-g2:hover {
+    opacity: 85%;
+    cursor: pointer;
+      transition: all 0.5s ease-in-out;
+  }
+  .buttons .max-width .buttons-g2-row-2 .btn-g2:hover {
+    opacity: 85%;
+    cursor: pointer;
+      transition: all 0.5s ease-in-out;
+  }
+  .buttons .max-width .buttons-g2-row-3 .btn-g2:hover {
+    opacity: 100%;
+    cursor: pointer;
+      transition: all 0.5s ease-in-out;
+  }
+  .buttons .max-width .buttons-g2-row-4 .btn-g2:hover {
+    opacity: 100%;
+    cursor: pointer;
+    transition: all 0.5s ease-in-out;
+  }
+
+
