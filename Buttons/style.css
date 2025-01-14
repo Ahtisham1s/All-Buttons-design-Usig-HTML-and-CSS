@@ -202,24 +202,79 @@
   }
 
 
+/* ROW 1 */
 
-  .buttons .max-width .buttons-g2-row-1 #btn-g2-r1-2 {
+
+.buttons .max-width .button-group-two .buttons-g2-row-1 #btn-g2-r1-2 {
+  width: 110px;
+  height: 40px;
+}
+ .buttons .max-width .button-group-two .buttons-g2-row-1 #btn-g2-r1-3{
+  width: 114px;
+  height: 44px;
+}
+ .buttons .max-width .button-group-two .buttons-g2-row-1 #btn-g2-r1-4{
+  width: 118px;
+  height: 48px;
+}
+ .buttons .max-width .button-group-two .buttons-g2-row-1 #btn-g2-r1-5{
+  width: 122px;
+  height: 52px;
+}
+
+/* ROW 2 */
+  .buttons .max-width .button-group-two .buttons-g2-row-2 #btn-g2-r2-2 {
     width: 110px;
     height: 40px;
   }
-  .buttons .max-width .buttons-g2-row-1 #btn-g2-r1-3 {
+   .buttons .max-width .button-group-two .buttons-g2-row-2 #btn-g2-r2-3{
     width: 114px;
     height: 44px;
   }
-  .buttons .max-width .buttons-g2-row-1 #btn-g2-r1-4 {
+   .buttons .max-width .button-group-two .buttons-g2-row-2 #btn-g2-r2-4{
     width: 118px;
     height: 48px;
   }
-  .buttons .max-width .buttons-g2-row-1 #btn-g2-r1-5 {
+   .buttons .max-width .button-group-two .buttons-g2-row-2 #btn-g2-r2-5{
     width: 122px;
     height: 52px;
   }
 
+  /* ROW 3 */
+  .buttons .max-width .button-group-two .buttons-g2-row-3 #btn-g2-r3-2 {
+    width: 110px;
+    height: 40px;
+  }
+   .buttons .max-width .button-group-two .buttons-g2-row-3 #btn-g2-r3-3{
+    width: 114px;
+    height: 44px;
+  }
+   .buttons .max-width .button-group-two .buttons-g2-row-3 #btn-g2-r3-4{
+    width: 118px;
+    height: 48px;
+  }
+   .buttons .max-width .button-group-two .buttons-g2-row-3 #btn-g2-r3-5{
+    width: 122px;
+    height: 52px;
+  }
+
+  /* ROW 4 */
+  .buttons .max-width .button-group-two .buttons-g2-row-4 #btn-g2-r4-2 {
+    width: 110px;
+    height: 40px;
+  }
+   .buttons .max-width .button-group-two .buttons-g2-row-4 #btn-g2-r4-3{
+    width: 114px;
+    height: 44px;
+  }
+   .buttons .max-width .button-group-two .buttons-g2-row-4 #btn-g2-r4-4{
+    width: 118px;
+    height: 48px;
+  }
+   .buttons .max-width .button-group-two .buttons-g2-row-4 #btn-g2-r4-5{
+    width: 122px;
+    height: 52px;
+  }
 
   /* ALL Hover Effects Group 2 */
 
