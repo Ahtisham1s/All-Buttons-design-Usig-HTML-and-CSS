@@ -13,7 +13,7 @@
   padding: 16px;
 }
 
-
+/* ajjjj */
 
 /* All Groups Display properties */
 .buttons .max-width .buttons-g1-row-1,
@@ -501,7 +501,7 @@
 
   /* Group four */
 
-  /* Group 3 All Styling */
+  /* Group 4 All Styling */
   .button-group-four{
     margin-top: 88px;
     /* border: 1px solid; */
@@ -644,7 +644,7 @@
     height: 60px;
   }
 
-  /* ALL Hover Effects Group 3 */
+  /* ALL Hover Effects Group 4 */
 
   .buttons .max-width .buttons-g4-row-1 .btn-g4:hover {
     opacity: 85%;
@@ -668,3 +668,1376 @@
   }
 
 
+
+
+  /* Group five */
+
+  /* Group 5 All Styling */
+  .button-group-five{
+    margin-top: 88px;
+    /* border: 1px solid; */
+  }
+
+  .buttons .max-width  .buttons-g5-row-1,
+  .buttons .max-width  .buttons-g5-row-2,
+  .buttons .max-width  .buttons-g5-row-3,
+  .buttons .max-width  .buttons-g5-row-4 {
+    display: flex;
+    gap: 31px;
+  
+  }
+  .buttons .max-width  .buttons-g5-row-1 .btn-g5,
+  .buttons .max-width  .buttons-g5-row-2 .btn-g5,
+  .buttons .max-width  .buttons-g5-row-3 .btn-g5,
+  .buttons .max-width  .buttons-g5-row-4 .btn-g5 {
+    border: none;
+    width: 106px;
+    height: 36px;
+    border-radius: 8px;
+    background-color: #F9F5FF;
+    color: #6941C6;
+    font-family: "Inter", sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 20px;
+    margin-top: 16px;
+    margin-bottom: 5px;
+  }
+
+
+/* ROW 1 */
+
+.buttons .max-width .button-group-five .buttons-g5-row-1 .btn-g5 {
+  background-color: #FFFFFF;
+  /* box-shadow: 0px 1px 2px 0px #0A0D120D; */
+  /* border: 1px solid #D5D7DA; */
+  transition: all 0.5s ease-in-out;
+}
+
+
+.buttons .max-width .button-group-five .buttons-g5-row-1 #btn-g5-r1-2 {
+  width: 110px;
+  height: 40px;
+}
+ .buttons .max-width .button-group-five .buttons-g5-row-1 #btn-g5-r1-3{
+  width: 125px;
+  height: 44px;
+}
+ .buttons .max-width .button-group-five .buttons-g5-row-1 #btn-g5-r1-4{
+  width: 129px;
+  height: 48px;
+}
+ .buttons .max-width .button-group-five .buttons-g5-row-1 #btn-g5-r1-5{
+  width: 156px;
+  height: 60px;
+}
+
+/* ROW 2 */
+
+
+
+.buttons .max-width .button-group-five .buttons-g5-row-2 .btn-g5 {
+  background-color: #FAFAFA;
+  /* box-shadow: 0px 1px 2px 0px #0A0D120D;
+  border: 1px solid #D5D7DA; */
+  color: #6941C6;
+  transition: all 0.5s ease-in-out;
+}
+
+  .buttons .max-width .button-group-five .buttons-g5-row-2 #btn-g5-r2-2 {
+    width: 110px;
+    height: 40px;
+  }
+   .buttons .max-width .button-group-five .buttons-g5-row-2 #btn-g5-r2-3{
+    width: 125px;
+    height: 44px;
+  }
+   .buttons .max-width .button-group-five .buttons-g5-row-2 #btn-g5-r2-4{
+    width: 129px;
+    height: 48px;
+  }
+   .buttons .max-width .button-group-five .buttons-g5-row-2 #btn-g5-r2-5{
+    width: 156px;
+    height: 60px;
+  }
+
+  /* ROW 3 */
+
+  .buttons .max-width .button-group-five .buttons-g5-row-3 .btn-g5 {
+    background-color: #FFFFFF;
+    /* box-shadow: 0px 0px 0px 4px #F5F5F5;
+    border: 1px solid #D5D7DA; */
+    transition: all 0.5s ease-in-out;
+  }
+
+  .buttons .max-width .button-group-five .buttons-g5-row-3 #btn-g5-r3-2 {
+    width: 110px;
+    height: 40px;
+  }
+   .buttons .max-width .button-group-five .buttons-g5-row-3 #btn-g5-r3-3{
+    width: 125px;
+    height: 44px;
+  }
+   .buttons .max-width .button-group-five .buttons-g5-row-3 #btn-g5-r3-4{
+    width: 129px;
+    height: 48px;
+  }
+   .buttons .max-width .button-group-five .buttons-g5-row-3 #btn-g5-r3-5{
+    width: 156px;
+    height: 60px;
+  }
+
+  /* ROW 4 */
+  .buttons .max-width .button-group-five .buttons-g5-row-4 .btn-g5 {
+    background-color: #FFFFFF;
+    opacity: 60%;
+    color: #D6BBFB;
+    /* border: 1px solid #E9EAEB;
+    box-shadow: 0px 1px 2px 0px #0A0D120D; */
+    transition: all 0.5s ease-in-out;
+    
+  }
+
+  .buttons .max-width .button-group-five .buttons-g5-row-4 #btn-g5-r4-2 {
+    width: 110px;
+    height: 40px;
+  }
+   .buttons .max-width .button-group-five .buttons-g5-row-4 #btn-g5-r4-3{
+    width: 125px;
+    height: 44px;
+  }
+   .buttons .max-width .button-group-five .buttons-g5-row-4 #btn-g5-r4-4{
+    width: 129px;
+    height: 48px;
+  }
+   .buttons .max-width .button-group-five .buttons-g5-row-4 #btn-g5-r4-5{
+    width: 156px;
+    height: 60px;
+  }
+
+  /* ALL Hover Effects Group 4 */
+
+  .buttons .max-width .buttons-g5-row-1 .btn-g5:hover {
+    opacity: 75%;
+    cursor: pointer;
+     box-shadow: 0px 1px 2px 0px #0A0D120D;
+      transition: all 0.5s ease-in-out;
+  }
+  .buttons .max-width .buttons-g5-row-2 .btn-g5:hover {
+    opacity: 75%;
+    cursor: pointer;
+     box-shadow: 0px 1px 2px 0px #0A0D120D;
+      transition: all 0.5s ease-in-out;
+  }
+  .buttons .max-width .buttons-g5-row-3 .btn-g5:hover {
+    opacity: 75%;
+    cursor: pointer;
+     box-shadow: 0px 1px 2px 0px #0A0D120D;
+      transition: all 0.5s ease-in-out;
+  }
+  .buttons .max-width .buttons-g5-row-4 .btn-g5:hover {
+    opacity: 100%;
+    cursor: pointer;
+    color: #6941C6;
+    box-shadow: 0px 1px 2px 0px #0A0D120D;
+    background-color: #FFFFFF;
+    transition: all 0.5s ease-in-out;
+  }
+
+
+
+
+  /* Group 6 */
+  /* Group 6 All Styling */
+  .button-group-six{
+    margin-top: 88px;
+    /* border: 1px solid; */
+  }
+
+  .buttons .max-width  .buttons-g6-row-1,
+  .buttons .max-width  .buttons-g6-row-2,
+  .buttons .max-width  .buttons-g6-row-3,
+  .buttons .max-width  .buttons-g6-row-4 {
+    display: flex;
+    gap: 31px;
+  
+  }
+  .buttons .max-width  .buttons-g6-row-1 .btn-g6,
+  .buttons .max-width  .buttons-g6-row-2 .btn-g6,
+  .buttons .max-width  .buttons-g6-row-3 .btn-g6,
+  .buttons .max-width  .buttons-g6-row-4 .btn-g6 {
+    border: none;
+    width: 106px;
+    height: 36px;
+    border-radius: 8px;
+    background-color: #F9F5FF;
+    color: #535862;
+    font-family: "Inter", sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 20px;
+    margin-top: 16px;
+    margin-bottom: 5px;
+  }
+
+
+/* ROW 1 */
+
+.buttons .max-width .button-group-six .buttons-g6-row-1 .btn-g6 {
+  background-color: #FFFFFF;
+  /* box-shadow: 0px 1px 2px 0px #0A0D120D; */
+  /* border: 1px solid #D5D7DA; */
+  transition: all 0.5s ease-in-out;
+}
+
+
+.buttons .max-width .button-group-six .buttons-g6-row-1 #btn-g6-r1-2 {
+  width: 110px;
+  height: 40px;
+}
+ .buttons .max-width .button-group-six .buttons-g6-row-1 #btn-g6-r1-3{
+  width: 125px;
+  height: 44px;
+}
+ .buttons .max-width .button-group-six .buttons-g6-row-1 #btn-g6-r1-4{
+  width: 129px;
+  height: 48px;
+}
+ .buttons .max-width .button-group-six .buttons-g6-row-1 #btn-g6-r1-5{
+  width: 156px;
+  height: 60px;
+}
+
+/* ROW 2 */
+
+
+
+.buttons .max-width .button-group-six .buttons-g6-row-2 .btn-g6 {
+  background-color: #FAFAFA;
+  /* box-shadow: 0px 1px 2px 0px #0A0D120D;
+  border: 1px solid #D5D7DA; */
+  color: #535862;
+  transition: all 0.5s ease-in-out;
+}
+
+  .buttons .max-width .button-group-six .buttons-g6-row-2 #btn-g6-r2-2 {
+    width: 110px;
+    height: 40px;
+  }
+   .buttons .max-width .button-group-six .buttons-g6-row-2 #btn-g6-r2-3{
+    width: 125px;
+    height: 44px;
+  }
+   .buttons .max-width .button-group-six .buttons-g6-row-2 #btn-g6-r2-4{
+    width: 129px;
+    height: 48px;
+  }
+   .buttons .max-width .button-group-six .buttons-g6-row-2 #btn-g6-r2-5{
+    width: 156px;
+    height: 60px;
+  }
+
+  /* ROW 3 */
+
+  .buttons .max-width .button-group-six .buttons-g6-row-3 .btn-g6 {
+    background-color: #FFFFFF;
+    /* box-shadow: 0px 0px 0px 4px #F5F5F5;
+    border: 1px solid #D5D7DA; */
+    transition: all 0.5s ease-in-out;
+  }
+
+  .buttons .max-width .button-group-six .buttons-g6-row-3 #btn-g6-r3-2 {
+    width: 110px;
+    height: 40px;
+  }
+   .buttons .max-width .button-group-six .buttons-g6-row-3 #btn-g6-r3-3{
+    width: 125px;
+    height: 44px;
+  }
+   .buttons .max-width .button-group-six .buttons-g6-row-3 #btn-g6-r3-4{
+    width: 129px;
+    height: 48px;
+  }
+   .buttons .max-width .button-group-six .buttons-g6-row-3 #btn-g6-r3-5{
+    width: 156px;
+    height: 60px;
+  }
+
+  /* ROW 4 */
+  .buttons .max-width .button-group-six .buttons-g6-row-4 .btn-g6 {
+    background-color: #FFFFFF;
+    opacity: 60%;
+    color: #535862;
+    /* border: 1px solid #E9EAEB;
+    box-shadow: 0px 1px 2px 0px #0A0D120D; */
+    transition: all 0.5s ease-in-out;
+    
+  }
+
+  .buttons .max-width .button-group-six .buttons-g6-row-4 #btn-g6-r4-2 {
+    width: 110px;
+    height: 40px;
+  }
+   .buttons .max-width .button-group-six .buttons-g6-row-4 #btn-g6-r4-3{
+    width: 125px;
+    height: 44px;
+  }
+   .buttons .max-width .button-group-six .buttons-g6-row-4 #btn-g6-r4-4{
+    width: 129px;
+    height: 48px;
+  }
+   .buttons .max-width .button-group-six .buttons-g6-row-4 #btn-g6-r4-5{
+    width: 156px;
+    height: 60px;
+  }
+
+  /* ALL Hover Effects Group 4 */
+
+  .buttons .max-width .buttons-g6-row-1 .btn-g6:hover {
+    opacity: 75%;
+    cursor: pointer;
+     box-shadow: 0px 1px 2px 0px #0A0D120D;
+      transition: all 0.5s ease-in-out;
+  }
+  .buttons .max-width .buttons-g6-row-2 .btn-g6:hover {
+    opacity: 75%;
+    cursor: pointer;
+     box-shadow: 0px 1px 2px 0px #0A0D120D;
+      transition: all 0.5s ease-in-out;
+  }
+  .buttons .max-width .buttons-g6-row-3 .btn-g6:hover {
+    opacity: 75%;
+    cursor: pointer;
+     box-shadow: 0px 1px 2px 0px #0A0D120D;
+      transition: all 0.5s ease-in-out;
+  }
+  .buttons .max-width .buttons-g6-row-4 .btn-g6:hover {
+    opacity: 100%;
+    cursor: pointer;
+    color: #535862;
+    box-shadow: 0px 1px 2px 0px #0A0D120D;
+    background-color: #FFFFFF;
+    transition: all 0.5s ease-in-out;
+  }
+
+
+
+
+/* New Section */
+/* New Stylings */
+  /* Red Buttons All CSS */
+
+
+  .buttons-red .max-width-red {
+    max-width: 4026px;
+    margin: 0 auto;
+    border: 1px solid red;
+    padding: 16px;
+  }
+  
+  /* ajjjj */
+  
+  /* All Groups Display properties */
+  .buttons-red .max-width-red .buttons-g1-row-1,
+  .buttons-red .max-width-red .buttons-g1-row-2 ,
+  .buttons-red .max-width-red .buttons-g1-row-3,
+  .buttons-red .max-width-red .buttons-g1-row-4{
+    display: flex;
+    gap: 31px;
+  
+  }
+  
+  
+  /* All Buttons Common Styling */
+  .buttons-red .max-width-red .buttons-g1-row-1 .btn,
+  .buttons-red .max-width-red .buttons-g1-row-2 .btn,
+  .buttons-red .max-width-red .buttons-g1-row-3 .btn,
+  .buttons-red .max-width-red .buttons-g1-row-4 .btn {
+    border: none;
+    width: 106px;
+    height: 36px;
+    border-radius: 8px;
+    background-color: #7f56d9;
+    color: #ffffff;
+    font-family: "Inter", sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 20px;
+    margin-top: 16px;
+  }
+  
+  
+  
+  /* All Hover Effects Styling Group 1 */
+  
+  .buttons-red .max-width-red .buttons-g1-row-1 .btn:hover {
+    opacity: 85%;
+    cursor: pointer;
+      transition: all 0.5s ease-in-out;
+  }
+  .buttons-red .max-width-red .buttons-g1-row-2 .btn:hover {
+    opacity: 85%;
+    cursor: pointer;
+      transition: all 0.5s ease-in-out;
+  }
+  .buttons-red .max-width-red .buttons-g1-row-3 .btn:hover {
+    opacity: 85%;
+    cursor: pointer;
+      transition: all 0.5s ease-in-out;
+  }
+  .buttons-red .max-width-red .buttons-g1-row-4 .btn:hover {
+    opacity: 100%;
+    cursor: pointer;
+    background-color: #7f56d9;
+    transition: all 0.5s ease-in-out;
+  }
+  
+  
+  
+  
+  /* Row 1 */
+  
+  .buttons-red .max-width-red .buttons-g1-row-1 #btn-row1-2 {
+    width: 110px;
+    height: 40px;
+  }
+  .buttons-red .max-width-red .buttons-g1-row-1 #btn-row1-3 {
+    width: 125px;
+    height: 44px;
+  }
+  .buttons-red .max-width-red .buttons-g1-row-1 #btn-row1-4 {
+    width: 129px;
+    height: 48px;
+  }
+  .buttons-red .max-width-red .buttons-g1-row-1 #btn-row1-5 {
+    width: 156px;
+    height: 60px;
+  }
+  
+  /* Row 2 */
+  .buttons-red .max-width-red .buttons-g1-row-2 .btn {
+    background-color: #6941c6;
+      transition: all 0.5s ease-in-out;
+  }
+  .buttons-red .max-width-red .buttons-g1-row-2 #btn-row2-2 {
+    width: 110px;
+    height: 40px;
+  }
+  .buttons-red .max-width-red .buttons-g1-row-2 #btn-row2-3 {
+    width: 125px;
+    height: 44px;
+  }
+  .buttons-red .max-width-red .buttons-g1-row-2 #btn-row2-4 {
+    width: 129px;
+    height: 48px;
+  }
+  .buttons-red .max-width-red .buttons-g1-row-2 #btn-row2-5 {
+    width: 156px;
+    height: 60px;
+  }
+  
+  
+  /* Row 3 */
+  
+  
+  .buttons-red .max-width-red .buttons-g1-row-3 .btn {
+      background-color: #7F56D9;
+      box-shadow:0px 0px 0px 4px rgba(244, 235, 255, 1);
+        transition: all 0.5s ease-in-out;
+    }
+    .buttons-red .max-width-red .buttons-g1-row-3 #btn-row3-2 {
+      width: 110px;
+      height: 40px;
+    }
+    .buttons-red .max-width-red .buttons-g1-row-3 #btn-row3-3 {
+      width: 125px;
+      height: 44px;
+    }
+    .buttons-red .max-width-red .buttons-g1-row-3 #btn-row3-4 {
+      width: 129px;
+      height: 48px;
+    }
+    .buttons-red .max-width-red .buttons-g1-row-3 #btn-row3-5 {
+      width: 156px;
+      height: 60px;
+    }
+  
+  
+  
+  /* Row 4 */
+  
+  
+  .buttons-red .max-width-red .buttons-g1-row-4 .btn {
+      background-color: #E9D7FE;
+      box-shadow:0px 1px 2px 0px rgba(10, 13, 18, 0.05);
+      border: 1px solid #E9D7FE;
+      transition: all 0.5s ease-in-out;
+    }
+    .buttons-red .max-width-red .buttons-g1-row-4 #btn-row4-2 {
+      width: 110px;
+      height: 40px;
+    }
+    .buttons-red .max-width-red .buttons-g1-row-4 #btn-row4-3 {
+      width: 125px;
+      height: 44px;
+    }
+    .buttons-red .max-width-red .buttons-g1-row-4 #btn-row4-4 {
+      width: 129px;
+      height: 48px;
+    }
+    .buttons-red .max-width-red .buttons-g1-row-4 #btn-row4-5 {
+      width: 156px;
+      height: 60px;
+    }
+    
+  
+    /* Group 2 All Styling */
+    .button-red-group-two{
+      margin-top: 88px;
+      /* border: 1px solid; */
+    }
+  
+    .buttons-red .max-width-red .buttons-red-g2-row-1,
+    .buttons-red .max-width-red .buttons-red-g2-row-2,
+    .buttons-red .max-width-red .buttons-red-g2-row-3,
+    .buttons-red .max-width-red .buttons-red-g2-row-4 {
+      display: flex;
+      gap: 31px;
+    
+    }
+    .buttons-red .max-width-red .buttons-red-g2-row-1 .btn-g2,
+    .buttons-red .max-width-red .buttons-red-g2-row-2 .btn-g2,
+    .buttons-red .max-width-red .buttons-red-g2-row-3 .btn-g2,
+    .buttons-red .max-width-red .buttons-red-g2-row-4 .btn-g2 {
+      border: none;
+      width: 106px;
+      height: 36px;
+      border-radius: 8px;
+      background-color: #F9F5FF;
+      color: #6941C6;
+      font-family: "Inter", sans-serif;
+      font-size: 14px;
+      font-weight: 600;
+      line-height: 20px;
+      margin-top: 16px;
+      margin-bottom: 5px;
+    }
+  
+  
+  /* ROW 1 */
+  
+  .buttons-red .max-width-red .button-group-two .buttons-red-g2-row-1 .btn-g2 {
+    background-color: #F9F5FF;
+    box-shadow:0px 1px 2px 0px rgba(10, 13, 18, 0.05);
+  
+    transition: all 0.5s ease-in-out;
+  }
+  
+  
+  .buttons-red .max-width-red .button-group-two .buttons-red-g2-row-1 #btn-g2-r1-2 {
+    width: 110px;
+    height: 40px;
+  }
+   .buttons-red .max-width-red .button-group-two .buttons-red-g2-row-1 #btn-g2-r1-3{
+    width: 125px;
+    height: 44px;
+  }
+   .buttons-red .max-width-red .button-group-two .buttons-red-g2-row-1 #btn-g2-r1-4{
+    width: 129px;
+    height: 48px;
+  }
+   .buttons-red .max-width-red .button-group-two .buttons-red-g2-row-1 #btn-g2-r1-5{
+    width: 156px;
+    height: 60px;
+  }
+  
+  /* ROW 2 */
+  
+  .buttons .max-width .button-group-two .buttons-red-g2-row-2 .btn-g2 {
+    background-color: #F4EBFF;
+    box-shadow:0px 1px 2px 0px rgba(10, 13, 18, 0.05);
+  
+    transition: all 0.5s ease-in-out;
+  }
+  
+    .buttons .max-width .button-group-two .buttons-red-g2-row-2 #btn-g2-r2-2 {
+      width: 110px;
+      height: 40px;
+    }
+     .buttons .max-width .button-group-two .buttons-red-g2-row-2 #btn-g2-r2-3{
+      width: 125px;
+      height: 44px;
+    }
+     .buttons .max-width .button-group-two .buttons-red-g2-row-2 #btn-g2-r2-4{
+      width: 129px;
+      height: 48px;
+    }
+     .buttons .max-width .button-group-two .buttons-red-g2-row-2 #btn-g2-r2-5{
+      width: 156px;
+      height: 60px;
+    }
+  
+    /* ROW 3 */
+  
+    .buttons .max-width .button-group-two .buttons-red-g2-row-3 .btn-g2 {
+      background-color: #F9F5FF;
+      box-shadow:0px 0px 0px 4px rgba(244, 235, 255, 1);
+      border: 1px solid #F9F5FF;
+      transition: all 0.5s ease-in-out;
+    }
+  
+    .buttons .max-width .button-group-two .buttons-red-g2-row-3 #btn-g2-r3-2 {
+      width: 110px;
+      height: 40px;
+    }
+     .buttons .max-width .button-group-two .buttons-red-g2-row-3 #btn-g2-r3-3{
+      width: 125px;
+      height: 44px;
+    }
+     .buttons .max-width .button-group-two .buttons-red-g2-row-3 #btn-g2-r3-4{
+      width: 129px;
+      height: 48px;
+    }
+     .buttons .max-width .button-group-two .buttons-red-g2-row-3 #btn-g2-r3-5{
+      width: 156px;
+      height: 60px;
+    }
+  
+    /* ROW 4 */
+    .buttons .max-width .button-group-two .buttons-red-g2-row-4 .btn-g2 {
+      background-color: #FCFAFF;
+      color: #D6BBFB;
+      box-shadow:0px 1px 2px 0px #0A0D120D;
+      transition: all 0.5s ease-in-out;
+    }
+  
+    .buttons .max-width .button-group-two .buttons-red-g2-row-4 #btn-g2-r4-2 {
+      width: 110px;
+      height: 40px;
+    }
+     .buttons .max-width .button-group-two .buttons-red-g2-row-4 #btn-g2-r4-3{
+      width: 125px;
+      height: 44px;
+    }
+     .buttons .max-width .button-group-two .buttons-red-g2-row-4 #btn-g2-r4-4{
+      width: 129px;
+      height: 48px;
+    }
+     .buttons .max-width .button-group-two .buttons-red-g2-row-4 #btn-g2-r4-5{
+      width: 156px;
+      height: 60px;
+    }
+  
+    /* ALL Hover Effects Group 2 */
+  
+    .buttons .max-width .buttons-g2-row-1 .btn-g2:hover {
+      opacity: 85%;
+      cursor: pointer;
+        transition: all 0.5s ease-in-out;
+    }
+    .buttons .max-width .buttons-g2-row-2 .btn-g2:hover {
+      opacity: 85%;
+      cursor: pointer;
+        transition: all 0.5s ease-in-out;
+    }
+    .buttons .max-width .buttons-g2-row-3 .btn-g2:hover {
+      opacity: 100%;
+      cursor: pointer;
+        transition: all 0.5s ease-in-out;
+    }
+    .buttons .max-width .buttons-g2-row-4 .btn-g2:hover {
+      opacity: 100%;
+      cursor: pointer;
+      transition: all 0.5s ease-in-out;
+    }
+  
+  
+  
+    /* Group three  */
+  
+    /* Group 3 All Styling */
+    .button-red-group-three{
+      margin-top: 88px;
+      /* border: 1px solid; */
+    }
+  
+    .buttons-red .max-width-red  .buttons-red-g3-row-1,
+    .buttons-red .max-width-red  .buttons-red-g3-row-2,
+    .buttons-red .max-width-red  .buttons-red-g3-row-3,
+    .buttons-red .max-width-red  .buttons-red-g3-row-4 {
+      display: flex;
+      gap: 31px;
+    
+    }
+    .buttons-red .max-width-red  .buttons-red-g3-row-1 .btn-g3,
+    .buttons-red .max-width-red  .buttons-red-g3-row-2 .btn-g3,
+    .buttons-red .max-width-red  .buttons-red-g3-row-3 .btn-g3,
+    .buttons-red .max-width-red  .buttons-red-g3-row-4 .btn-g3 {
+      border: none;
+      width: 106px;
+      height: 36px;
+      border-radius: 8px;
+      background-color: #F9F5FF;
+      color: #414651;
+      font-family: "Inter", sans-serif;
+      font-size: 14px;
+      font-weight: 600;
+      line-height: 20px;
+      margin-top: 16px;
+      margin-bottom: 5px;
+    }
+  
+  
+  /* ROW 1 */
+  
+  .buttons-red .max-width-red .button-group-three .buttons-g3-row-1 .btn-g3 {
+    background-color: #FFFFFF;
+    box-shadow: 0px 1px 2px 0px #0A0D120D;
+    border: 1px solid #D5D7DA;
+    transition: all 0.5s ease-in-out;
+  }
+  
+  
+  .buttons-red .max-width-red .button-group-three .buttons-g3-row-1 #btn-g3-r1-2 {
+    width: 110px;
+    height: 40px;
+  }
+   .buttons-red .max-width-red .button-group-three .buttons-g3-row-1 #btn-g3-r1-3{
+    width: 125px;
+    height: 44px;
+  }
+   .buttons-red .max-width-red .button-group-three .buttons-g3-row-1 #btn-g3-r1-4{
+    width: 129px;
+    height: 48px;
+  }
+   .buttons-red .max-width-red .button-group-three .buttons-g3-row-1 #btn-g3-r1-5{
+    width: 156px;
+    height: 60px;
+  }
+  
+  /* ROW 2 */
+  
+  
+  
+  .buttons-red .max-width-red .button-red-group-three .buttons-red-g3-row-2 .btn-g3 {
+    background-color: #FAFAFA;
+    box-shadow: 0px 1px 2px 0px #0A0D120D;
+    border: 1px solid #D5D7DA;
+    color: #252B37;
+    transition: all 0.5s ease-in-out;
+  }
+  
+    .buttons-red .max-width-red .button-red-group-three .buttons-red-g3-row-2 #btn-g3-r2-2 {
+      width: 110px;
+      height: 40px;
+    }
+     .buttons-red .max-width-red .button-red-group-three .buttons-red-g3-row-2 #btn-g3-r2-3{
+      width: 125px;
+      height: 44px;
+    }
+     .buttons-red .max-width-red .button-red-group-three .buttons-red-g3-row-2 #btn-g3-r2-4{
+      width: 129px;
+      height: 48px;
+    }
+     .buttons-red .max-width-red .button-red-group-three .buttons-red-g3-row-2 #btn-g3-r2-5{
+      width: 156px;
+      height: 60px;
+    }
+  
+    /* ROW 3 */
+  
+    .buttons-red .max-width-red .button-red-group-three .buttons-red-g3-row-3 .btn-g3 {
+      background-color: #FFFFFF;
+      box-shadow: 0px 0px 0px 4px #F5F5F5;
+      border: 1px solid #D5D7DA;
+      transition: all 0.5s ease-in-out;
+    }
+  
+    .buttons-red .max-width-red .button-red-group-three .buttons-red-g3-row-3 #btn-g3-r3-2 {
+      width: 110px;
+      height: 40px;
+    }
+     .buttons-red .max-width-red .button-red-group-three .buttons-red-g3-row-3 #btn-g3-r3-3{
+      width: 125px;
+      height: 44px;
+    }
+     .buttons-red .max-width-red .button-red-group-three .buttons-red-g3-row-3 #btn-g3-r3-4{
+      width: 129px;
+      height: 48px;
+    }
+     .buttons-red .max-width-red .button-red-group-three .buttons-red-g3-row-3 #btn-g3-r3-5{
+      width: 156px;
+      height: 60px;
+    }
+  
+    /* ROW 4 */
+    .buttons-red .max-width-red .button-red-group-three .buttons-red-g3-row-4 .btn-g3 {
+      background-color: #FFFFFF;
+      opacity: 60%;
+      /* color: #D6BBFB; */
+      border: 1px solid #E9EAEB;
+      box-shadow: 0px 1px 2px 0px #0A0D120D;
+      transition: all 0.5s ease-in-out;
+      
+    }
+  
+    .buttons-red .max-width-red .button-red-group-three .buttons-red-g3-row-4 #btn-g3-r4-2 {
+      width: 110px;
+      height: 40px;
+    }
+     .buttons-red .max-width-red .button-red-group-three .buttons-red-g3-row-4 #btn-g3-r4-3{
+      width: 125px;
+      height: 44px;
+    }
+     .buttons-red .max-width-red .button-red-group-three .buttons-red-g3-row-4 #btn-g3-r4-4{
+      width: 129px;
+      height: 48px;
+    }
+     .buttons-red .max-width-red .button-red-group-three .buttons-red-g3-row-4 #btn-g3-r4-5{
+      width: 156px;
+      height: 60px;
+    }
+  
+    /* ALL Hover Effects Group 3 */
+  
+    .buttons-red .max-width-red .buttons-red-g3-row-1 .btn-g3:hover {
+      opacity: 85%;
+      cursor: pointer;
+        transition: all 0.5s ease-in-out;
+    }
+    .buttons-red .max-width-red .buttons-red-g3-row-2 .btn-g3:hover {
+      opacity: 85%;
+      cursor: pointer;
+        transition: all 0.5s ease-in-out;
+    }
+    .buttons-red .max-width-red .buttons-red-g3-row-3 .btn-g3:hover {
+      opacity: 100%;
+      cursor: pointer;
+        transition: all 0.5s ease-in-out;
+    }
+    .buttons-red .max-width-red .buttons-red-g3-row-4 .btn-g3:hover {
+      opacity: 100%;
+      cursor: pointer;
+      transition: all 0.5s ease-in-out;
+    }
+  
+    /* Group four */
+  
+    /* Group 4 All Styling */
+    .button-red-group-four{
+      margin-top: 88px;
+      /* border: 1px solid; */
+    }
+  
+    .buttons-red .max-width-red  .buttons-red-g4-row-1,
+    .buttons-red .max-width-red  .buttons-red-g4-row-2,
+    .buttons-red .max-width-red  .buttons-red-g4-row-3,
+    .buttons-red .max-width-red  .buttons-red-g4-row-4 {
+      display: flex;
+      gap: 31px;
+    
+    }
+    .buttons-red .max-width-red  .buttons-red-g4-row-1 .btn-g4,
+    .buttons-red .max-width-red  .buttons-red-g4-row-2 .btn-g4,
+    .buttons-red .max-width-red  .buttons-red-g4-row-3 .btn-g4,
+    .buttons-red .max-width-red  .buttons-red-g4-row-4 .btn-g4 {
+      border: none;
+      width: 106px;
+      height: 36px;
+      border-radius: 8px;
+      background-color: #F9F5FF;
+      color: #414651;
+      font-family: "Inter", sans-serif;
+      font-size: 14px;
+      font-weight: 600;
+      line-height: 20px;
+      margin-top: 16px;
+      margin-bottom: 5px;
+    }
+  
+  
+  /* ROW 1 */
+  
+  .buttons-red .max-width-red .button-red-group-four .buttons-red-g4-row-1 .btn-g4 {
+    background-color: #FFFFFF;
+    box-shadow: 0px 1px 2px 0px #0A0D120D;
+    border: 1px solid #D5D7DA;
+    transition: all 0.5s ease-in-out;
+  }
+  
+  
+  .buttons-red .max-width-red .button-red-group-four .buttons-red-g4-row-1 #btn-g4-r1-2 {
+    width: 110px;
+    height: 40px;
+  }
+   .buttons-red .max-width-red .button-red-group-four .buttons-red-g4-row-1 #btn-g4-r1-3{
+    width: 125px;
+    height: 44px;
+  }
+   .buttons-red .max-width-red .button-red-group-four .buttons-red-g4-row-1 #btn-g4-r1-4{
+    width: 129px;
+    height: 48px;
+  }
+   .buttons-red .max-width-red .button-red-group-four .buttons-red-g4-row-1 #btn-g4-r1-5{
+    width: 156px;
+    height: 60px;
+  }
+  
+  /* ROW 2 */
+  
+  
+  
+  .buttons-red .max-width-red .button-red-group-four .buttons-red-g4-row-2 .btn-g4 {
+    background-color: #FAFAFA;
+    box-shadow: 0px 1px 2px 0px #0A0D120D;
+    border: 1px solid #D5D7DA;
+    color: #252B37;
+    transition: all 0.5s ease-in-out;
+  }
+  
+    .buttons-red .max-width-red .button-red-group-four .buttons-red-g4-row-2 #btn-g4-r2-2 {
+      width: 110px;
+      height: 40px;
+    }
+     .buttons-red .max-width-red .button-red-group-four .buttons-red-g4-row-2 #btn-g4-r2-3{
+      width: 125px;
+      height: 44px;
+    }
+     .buttons-red .max-width-red .button-red-group-four .buttons-red-g4-row-2 #btn-g4-r2-4{
+      width: 129px;
+      height: 48px;
+    }
+     .buttons-red .max-width-red .button-red-group-four .buttons-red-g4-row-2 #btn-g4-r2-5{
+      width: 156px;
+      height: 60px;
+    }
+  
+    /* ROW 3 */
+  
+    .buttons-red .max-width-red .button-red-group-four .buttons-red-g4-row-3 .btn-g4 {
+      background-color: #FFFFFF;
+      box-shadow: 0px 0px 0px 4px #F5F5F5;
+      border: 1px solid #D5D7DA;
+      transition: all 0.5s ease-in-out;
+    }
+  
+    .buttons-red .max-width-red .button-red-group-four .buttons-red-g4-row-3 #btn-g4-r3-2 {
+      width: 110px;
+      height: 40px;
+    }
+     .buttons-red .max-width-red .button-red-group-four .buttons-red-g4-row-3 #btn-g4-r3-3{
+      width: 125px;
+      height: 44px;
+    }
+     .buttons-red .max-width-red .button-red-group-four .buttons-red-g4-row-3 #btn-g4-r3-4{
+      width: 129px;
+      height: 48px;
+    }
+     .buttons-red .max-width-red .button-red-group-four .buttons-red-g4-row-3 #btn-g4-r3-5{
+      width: 156px;
+      height: 60px;
+    }
+  
+    /* ROW 4 */
+    .buttons-red .max-width .button-group-four .buttons-red-g4-row-4 .btn-g4 {
+      background-color: #FFFFFF;
+      opacity: 60%;
+      /* color: #D6BBFB; */
+      border: 1px solid #E9EAEB;
+      box-shadow: 0px 1px 2px 0px #0A0D120D;
+      transition: all 0.5s ease-in-out;
+      
+    }
+  
+    .buttons-red .max-width-red .button-red-group-four .buttons-red-g4-row-4 #btn-g4-r4-2 {
+      width: 110px;
+      height: 40px;
+    }
+     .buttons-red .max-width-red .button-red-group-four .buttons-red-g4-row-4 #btn-g4-r4-3{
+      width: 125px;
+      height: 44px;
+    }
+     .buttons-red .max-width-red .button-red-group-four .buttons-red-g4-row-4 #btn-g4-r4-4{
+      width: 129px;
+      height: 48px;
+    }
+     .buttons-red .max-width-red .button-red-group-four .buttons-red-g4-row-4 #btn-g4-r4-5{
+      width: 156px;
+      height: 60px;
+    }
+  
+    /* ALL Hover Effects Group 4 */
+  
+    .buttons-red .max-width-red .buttons-red-g4-row-1 .btn-g4:hover {
+      opacity: 85%;
+      cursor: pointer;
+        transition: all 0.5s ease-in-out;
+    }
+    .buttons-red .max-width-red .buttons-red-g4-row-2 .btn-g4:hover {
+      opacity: 85%;
+      cursor: pointer;
+        transition: all 0.5s ease-in-out;
+    }
+    .buttons-red .max-width-red .buttons-red-g4-row-3 .btn-g4:hover {
+      opacity: 100%;
+      cursor: pointer;
+        transition: all 0.5s ease-in-out;
+    }
+    .buttons-red .max-width-red .buttons-red-g4-row-4 .btn-g4:hover {
+      opacity: 100%;
+      cursor: pointer;
+      transition: all 0.5s ease-in-out;
+    }
+  
+  
+  
+  
+    /* Group five */
+  
+    /* Group 5 All Styling */
+    .button-red-group-five{
+      margin-top: 88px;
+      /* border: 1px solid; */
+    }
+  
+    .buttons-red .max-width-red  .buttons-red-g5-row-1,
+    .buttons-red .max-width-red  .buttons-red-g5-row-2,
+    .buttons-red .max-width-red  .buttons-red-g5-row-3,
+    .buttons-red .max-width-red  .buttons-red-g5-row-4 {
+      display: flex;
+      gap: 31px;
+    
+    }
+    .buttons-red .max-width-red  .buttons-red-g5-row-1 .btn-g5,
+    .buttons-red .max-width-red  .buttons-red-g5-row-2 .btn-g5,
+    .buttons-red .max-width-red  .buttons-red-g5-row-3 .btn-g5,
+    .buttons-red .max-width-red  .buttons-red-g5-row-4 .btn-g5 {
+      border: none;
+      width: 106px;
+      height: 36px;
+      border-radius: 8px;
+      background-color: #F9F5FF;
+      color: #6941C6;
+      font-family: "Inter", sans-serif;
+      font-size: 14px;
+      font-weight: 600;
+      line-height: 20px;
+      margin-top: 16px;
+      margin-bottom: 5px;
+    }
+  
+  
+  /* ROW 1 */
+  
+  .buttons-red .max-width-red .button-red-group-five .buttons-red-g5-row-1 .btn-g5 {
+    background-color: #FFFFFF;
+    /* box-shadow: 0px 1px 2px 0px #0A0D120D; */
+    /* border: 1px solid #D5D7DA; */
+    transition: all 0.5s ease-in-out;
+  }
+  
+  
+  .buttons-red .max-width-red .button-red-group-five .buttons-red-g5-row-1 #btn-g5-r1-2 {
+    width: 110px;
+    height: 40px;
+  }
+   .buttons-red .max-width-red .button-red-group-five .buttons-red-g5-row-1 #btn-g5-r1-3{
+    width: 125px;
+    height: 44px;
+  }
+   .buttons-red .max-width-red .button-red-group-five .buttons-red-g5-row-1 #btn-g5-r1-4{
+    width: 129px;
+    height: 48px;
+  }
+   .buttons-red .max-width-red .button-red-group-five .buttons-red-g5-row-1 #btn-g5-r1-5{
+    width: 156px;
+    height: 60px;
+  }
+  
+  /* ROW 2 */
+  
+  
+  
+  .buttons-red .max-width-red .button-red-group-five .buttons-red-g5-row-2 .btn-g5 {
+    background-color: #FAFAFA;
+    /* box-shadow: 0px 1px 2px 0px #0A0D120D;
+    border: 1px solid #D5D7DA; */
+    color: #6941C6;
+    transition: all 0.5s ease-in-out;
+  }
+  
+    .buttons-red .max-width-red .button-red-group-five .buttons-red-g5-row-2 #btn-g5-r2-2 {
+      width: 110px;
+      height: 40px;
+    }
+     .buttons-red .max-width-red .button-group-five .buttons-g5-row-2 #btn-g5-r2-3{
+      width: 125px;
+      height: 44px;
+    }
+     .buttons-red .max-width-red .button-red-group-five .buttons-red-g5-row-2 #btn-g5-r2-4{
+      width: 129px;
+      height: 48px;
+    }
+     .buttons-red .max-width-red .button-red-group-five .buttons-red-g5-row-2 #btn-g5-r2-5{
+      width: 156px;
+      height: 60px;
+    }
+  
+    /* ROW 3 */
+  
+    .buttons-red .max-width-red .button-red-group-five .buttons-red-g5-row-3 .btn-g5 {
+      background-color: #FFFFFF;
+      /* box-shadow: 0px 0px 0px 4px #F5F5F5;
+      border: 1px solid #D5D7DA; */
+      transition: all 0.5s ease-in-out;
+    }
+  
+    .buttons-red .max-width-red .button-red-group-five .buttons-red-g5-row-3 #btn-g5-r3-2 {
+      width: 110px;
+      height: 40px;
+    }
+     .buttons-red .max-width-red .button-red-group-five .buttons-red-g5-row-3 #btn-g5-r3-3{
+      width: 125px;
+      height: 44px;
+    }
+     .buttons-red .max-width-red .button-red-group-five .buttons-red-g5-row-3 #btn-g5-r3-4{
+      width: 129px;
+      height: 48px;
+    }
+     .buttons-red .max-width-red .button-red-group-five .buttons-red-g5-row-3 #btn-g5-r3-5{
+      width: 156px;
+      height: 60px;
+    }
+  
+    /* ROW 4 */
+    .buttons-red .max-width-red .button-red-group-five .buttons-red-g5-row-4 .btn-g5 {
+      background-color: #FFFFFF;
+      opacity: 60%;
+      color: #D6BBFB;
+      /* border: 1px solid #E9EAEB;
+      box-shadow: 0px 1px 2px 0px #0A0D120D; */
+      transition: all 0.5s ease-in-out;
+      
+    }
+  
+    .buttons-red .max-width-red .button-red-group-five .buttons-red-g5-row-4 #btn-g5-r4-2 {
+      width: 110px;
+      height: 40px;
+    }
+     .buttons-red .max-width-red .button-red-group-five .buttons-red-g5-row-4 #btn-g5-r4-3{
+      width: 125px;
+      height: 44px;
+    }
+     .buttons-red .max-width-red .button-red-group-five .buttons-red-g5-row-4 #btn-g5-r4-4{
+      width: 129px;
+      height: 48px;
+    }
+     .buttons-red .max-width-red .button-red-group-five .buttons-red-g5-row-4 #btn-g5-r4-5{
+      width: 156px;
+      height: 60px;
+    }
+  
+    /* ALL Hover Effects Group 4 */
+  
+    .buttons-red .max-width-red .buttons-red-g5-row-1 .btn-g5:hover {
+      opacity: 75%;
+      cursor: pointer;
+       box-shadow: 0px 1px 2px 0px #0A0D120D;
+        transition: all 0.5s ease-in-out;
+    }
+    .buttons-red .max-width-red .buttons-red-g5-row-2 .btn-g5:hover {
+      opacity: 75%;
+      cursor: pointer;
+       box-shadow: 0px 1px 2px 0px #0A0D120D;
+        transition: all 0.5s ease-in-out;
+    }
+    .buttons-red .max-width-red .buttons-red-g5-row-3 .btn-g5:hover {
+      opacity: 75%;
+      cursor: pointer;
+       box-shadow: 0px 1px 2px 0px #0A0D120D;
+        transition: all 0.5s ease-in-out;
+    }
+    .buttons-red .max-width-red .buttons-red-g5-row-4 .btn-g5:hover {
+      opacity: 100%;
+      cursor: pointer;
+      color: #6941C6;
+      box-shadow: 0px 1px 2px 0px #0A0D120D;
+      background-color: #FFFFFF;
+      transition: all 0.5s ease-in-out;
+    }
+  
+  
+  
+  
+    /* Group 6 */
+    /* Group 6 All Styling */
+    .button-red-group-six{
+      margin-top: 88px;
+      /* border: 1px solid; */
+    }
+  
+    .buttons-red .max-width-red  .buttons-red-g6-row-1,
+    .buttons-red .max-width-red  .buttons-red-g6-row-2,
+    .buttons-red .max-width-red  .buttons-red-g6-row-3,
+    .buttons-red .max-width-red  .buttons-red-g6-row-4 {
+      display: flex;
+      gap: 31px;
+    
+    }
+    .buttons-red .max-width-red  .buttons-red-g6-row-1 .btn-g6,
+    .buttons-red .max-width-red  .buttons-red-g6-row-2 .btn-g6,
+    .buttons-red .max-width-red  .buttons-red-g6-row-3 .btn-g6,
+    .buttons-red .max-width-red  .buttons-red-g6-row-4 .btn-g6 {
+      border: none;
+      width: 106px;
+      height: 36px;
+      border-radius: 8px;
+      background-color: #F9F5FF;
+      color: #535862;
+      font-family: "Inter", sans-serif;
+      font-size: 14px;
+      font-weight: 600;
+      line-height: 20px;
+      margin-top: 16px;
+      margin-bottom: 5px;
+    }
+  
+  
+  /* ROW 1 */
+  
+  .buttons-red .max-width-red .button-red-group-six .buttons-red-g6-row-1 .btn-g6 {
+    background-color: #FFFFFF;
+    /* box-shadow: 0px 1px 2px 0px #0A0D120D; */
+    /* border: 1px solid #D5D7DA; */
+    transition: all 0.5s ease-in-out;
+  }
+  
+  
+  .buttons-red .max-width-red .button-red-group-six .buttons-red-g6-row-1 #btn-g6-r1-2 {
+    width: 110px;
+    height: 40px;
+  }
+   .buttons-red .max-width-red .button-red-group-six .buttons-red-g6-row-1 #btn-g6-r1-3{
+    width: 125px;
+    height: 44px;
+  }
+   .buttons-red .max-width-red .button-red-group-six .buttons-red-g6-row-1 #btn-g6-r1-4{
+    width: 129px;
+    height: 48px;
+  }
+   .buttons-red .max-width-red .button-red-group-six .buttons-red-g6-row-1 #btn-g6-r1-5{
+    width: 156px;
+    height: 60px;
+  }
+  
+  /* ROW 2 */
+  
+  
+  
+  .buttons-red .max-width-red .button-red-group-six .buttons-red-g6-row-2 .btn-g6 {
+    background-color: #FAFAFA;
+    /* box-shadow: 0px 1px 2px 0px #0A0D120D;
+    border: 1px solid #D5D7DA; */
+    color: #535862;
+    transition: all 0.5s ease-in-out;
+  }
+  
+    .buttons-red .max-width-red .button-red-group-six .buttons-red-g6-row-2 #btn-g6-r2-2 {
+      width: 110px;
+      height: 40px;
+    }
+     .buttons-red .max-width-red .button-red-group-six .buttons-red-g6-row-2 #btn-g6-r2-3{
+      width: 125px;
+      height: 44px;
+    }
+     .buttons-red .max-width-red .button-red-group-six .buttons-red-g6-row-2 #btn-g6-r2-4{
+      width: 129px;
+      height: 48px;
+    }
+     .buttons-red .max-width-red .button-red-group-six .buttons-red-g6-row-2 #btn-g6-r2-5{
+      width: 156px;
+      height: 60px;
+    }
+  
+    /* ROW 3 */
+  
+    .buttons-red .max-width-red .button-red-group-six .buttons-red-g6-row-3 .btn-g6 {
+      background-color: #FFFFFF;
+      /* box-shadow: 0px 0px 0px 4px #F5F5F5;
+      border: 1px solid #D5D7DA; */
+      transition: all 0.5s ease-in-out;
+    }
+  
+    .buttons-red .max-width-red .button-red-group-six .buttons-red-g6-row-3 #btn-g6-r3-2 {
+      width: 110px;
+      height: 40px;
+    }
+     .buttons-red .max-width-red .button-red-group-six .buttons-red-g6-row-3 #btn-g6-r3-3{
+      width: 125px;
+      height: 44px;
+    }
+     .buttons-red .max-width-red .button-red-group-six .buttons-red-g6-row-3 #btn-g6-r3-4{
+      width: 129px;
+      height: 48px;
+    }
+     .buttons-red .max-width-red .button-red-group-six .buttons-red-g6-row-3 #btn-g6-r3-5{
+      width: 156px;
+      height: 60px;
+    }
+  
+    /* ROW 4 */
+    .buttons-red .max-width-red .button-red-group-six .buttons-red-g6-row-4 .btn-g6 {
+      background-color: #FFFFFF;
+      opacity: 60%;
+      color: #535862;
+      /* border: 1px solid #E9EAEB;
+      box-shadow: 0px 1px 2px 0px #0A0D120D; */
+      transition: all 0.5s ease-in-out;
+      
+    }
+  
+    .buttons-red .max-width-red .button-red-group-six .buttons-red-g6-row-4 #btn-g6-r4-2 {
+      width: 110px;
+      height: 40px;
+    }
+     .buttons-red .max-width-red .button-red-group-six .buttons-red-g6-row-4 #btn-g6-r4-3{
+      width: 125px;
+      height: 44px;
+    }
+     .buttons-red .max-width-red .button-red-group-six .buttons-red-g6-row-4 #btn-g6-r4-4{
+      width: 129px;
+      height: 48px;
+    }
+     .buttons-red .max-width-red .button-red-group-six .buttons-red-g6-row-4 #btn-g6-r4-5{
+      width: 156px;
+      height: 60px;
+    }
+  
+    /* ALL Hover Effects Group 4 */
+  
+    .buttons-red .max-width-red .buttons-red-g6-row-1 .btn-g6:hover {
+      opacity: 75%;
+      cursor: pointer;
+       box-shadow: 0px 1px 2px 0px #0A0D120D;
+        transition: all 0.5s ease-in-out;
+    }
+    .buttons-red .max-width-red .buttons-red-g6-row-2 .btn-g6:hover {
+      opacity: 75%;
+      cursor: pointer;
+       box-shadow: 0px 1px 2px 0px #0A0D120D;
+        transition: all 0.5s ease-in-out;
+    }
+    .buttons-red .max-width-red .button-reds-g6-row-3 .btn-g6:hover {
+      opacity: 75%;
+      cursor: pointer;
+       box-shadow: 0px 1px 2px 0px #0A0D120D;
+        transition: all 0.5s ease-in-out;
+    }
+    .buttons-red .max-width-red .buttons-red-g6-row-4 .btn-g6:hover {
+      opacity: 100%;
+      cursor: pointer;
+      color: #535862;
+      box-shadow: 0px 1px 2px 0px #0A0D120D;
+      background-color: #FFFFFF;
+      transition: all 0.5s ease-in-out;
+    }
